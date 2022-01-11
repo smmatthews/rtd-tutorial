@@ -1,4 +1,4 @@
-Licence
+Installation
 =======
 
-This is where the licence goes.
+This is where the installation goes.
