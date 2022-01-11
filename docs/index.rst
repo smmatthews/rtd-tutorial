@@ -11,8 +11,8 @@ Here is some text explaining some very complicated stuff.
 Guide
 ^^^^^^
 .. toctree::
-   licence
-   
+   installation
+   support
 
 
 Indices and tables
